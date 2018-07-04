@@ -1,2 +1,0 @@
-# forward_puppeteer
-puppeteer爬取技术文章和在新的网页中展示
